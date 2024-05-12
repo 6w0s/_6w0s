@@ -1,1 +1,1 @@
-print("Enjoy Exploiting")
+print()
